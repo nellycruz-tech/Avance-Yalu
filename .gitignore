@@ -1,0 +1,11 @@
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+
+# 🔐 secretos
+.env
+*.env
+firebase_credentials.json
+yalu/firebase_credentials.json
